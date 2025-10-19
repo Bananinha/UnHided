@@ -1,7 +1,7 @@
 # UnHided
 ## Env Vars
 ```
-API_PASSWORD = Yourpassword
+API_PASSWORD = pEzB37TZcE-!qkn@k4sQ
 ```
 ### Mamma Mia
 If you want to install MammaMia addon as well put also that enviroment variable
